@@ -12,3 +12,13 @@ By arrondissement and demographics:
 Society:
 * What's the median age for each profession
 * The state with the most diverse professionally
+
+Health:
+* How many hospitals by arrondissements
+* Ratio number of hospitals/population
+* Illness cases
+
+Labor
+* How many days of strike by department/ministry (Public)
+* How many days of strike by department/ministry (Private)
+* How many employees for the state
