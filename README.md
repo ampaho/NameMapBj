@@ -7,7 +7,8 @@ By arrondissement and demographics:
 * How many people between 10 and 15 are there in Benin?
 * What's the doctor/population count ration across the nation?
 * What's the oldest arrondissement in Benin?
-
+* Gender distribution in Benin
+* Gender distribution with profession
 
 Society:
 * What's the median age for each profession
