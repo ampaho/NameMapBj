@@ -23,3 +23,5 @@ Labor
 * How many days of strike by department/ministry (Public)
 * How many days of strike by department/ministry (Private)
 * How many employees for the state
+* How many hours of work in a year
+* How many holidays
