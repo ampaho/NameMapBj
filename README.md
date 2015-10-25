@@ -19,6 +19,7 @@ Health:
 * Ratio number of hospitals/population
 * Illness cases per year/location
 * Mortality death rate by year/ location
+* Life expectancy by location
 
 Labor
 * How many days of strike by department/ministry (Public)
