@@ -17,7 +17,8 @@ Society:
 Health:
 * How many hospitals by arrondissements
 * Ratio number of hospitals/population
-* Illness cases
+* Illness cases per year/location
+* Mortality death rate by year/ location
 
 Labor
 * How many days of strike by department/ministry (Public)
