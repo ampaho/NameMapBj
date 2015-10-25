@@ -12,7 +12,7 @@ By arrondissement and demographics:
 
 Society:
 * What's the median age for each profession
-* The state with the most diverse professionally
+* The state with the most professional diversity
 
 Health:
 * How many hospitals by arrondissements
