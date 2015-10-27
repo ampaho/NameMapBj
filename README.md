@@ -21,7 +21,7 @@ Health:
 * Illness cases per year/location
 * Mortality death rate by year/ location
 * Life expectancy by location
-* Malaria 
+* Malaria
 
 Labor
 * How many days of strike by department/ministry (Public)
@@ -29,3 +29,7 @@ Labor
 * How many employees for the state
 * How many hours of work in a year
 * How many holidays
+* 
+
+Geogeaphy
+*waterss hydrography
