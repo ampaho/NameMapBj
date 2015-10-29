@@ -32,6 +32,6 @@ Labor
 * 
 
 Geogeaphy
-* waterss hydrography
+* Waters/hydrography
 * Reported flooded areas
 * Areas with high risks of flood
