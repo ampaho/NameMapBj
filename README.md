@@ -22,6 +22,7 @@ Health:
 * Mortality death rate by year/ location
 * Life expectancy by location
 * Malaria
+* How people on universal healthcare
 
 Labor
 * How many days of strike by department/ministry (Public)
@@ -29,7 +30,7 @@ Labor
 * How many employees for the state
 * How many hours of work in a year
 * How many holidays
-* 
+* How many sick days
 
 Geogeaphy
 * Waters/hydrography
