@@ -10,6 +10,8 @@ By arrondissement and demographics:
 * What's the oldest arrondissement in Benin?
 * Gender distribution in Benin
 * Gender distribution with profession
+* Religion(type) by arrondissement
+* Religion(count) by arrondissement
 
 Society:
 * What's the median age for each profession
