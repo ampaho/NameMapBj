@@ -38,3 +38,4 @@ Geogeaphy
 * Waters/hydrography
 * Reported flooded areas
 * Areas with high risks of flood
+* Mountainous areas
