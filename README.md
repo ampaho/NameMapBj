@@ -33,6 +33,7 @@ Labor
 * How many hours of work in a year
 * How many holidays
 * How many sick days
+* How many days of strike by union
 
 Geogeaphy
 * Waters/hydrography
