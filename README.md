@@ -19,6 +19,8 @@ Society:
 
 Education:
 * How many high school graduates per year
+* How many new pupils in Primary school per year, per city
+
 
 Health:
 * How many hospitals by arrondissements
