@@ -17,6 +17,9 @@ Society:
 * What's the median age for each profession
 * The state the most professionally diverse
 
+Education:
+* How many high school graduates per year
+
 Health:
 * How many hospitals by arrondissements
 * Ratio number of hospitals/population
