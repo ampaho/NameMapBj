@@ -20,6 +20,8 @@ Society:
 Education:
 * How many high school graduates per year
 * How many new pupils in Primary school per year, per city
+* How many public primary schools per city
+* How many public secondary schools per city
 
 
 Health:
@@ -45,3 +47,4 @@ Geogeaphy
 * Reported flooded areas
 * Areas with high risks of flood
 * Mountainous areas
+
