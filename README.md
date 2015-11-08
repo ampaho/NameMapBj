@@ -22,6 +22,8 @@ Education:
 * How many new pupils in Primary school per year, per city
 * How many public primary schools per city
 * How many public secondary schools per city
+* How many private primary schools per city
+* How many private secondary schools per city
 
 
 Health:
