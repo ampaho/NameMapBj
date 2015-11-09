@@ -26,6 +26,7 @@ Education:
 * How many private secondary schools per city
 * How many illegal private primary schools per city
 * How many illegal private secondary schools per city
+* How many teachers by year
 
 
 Health:
